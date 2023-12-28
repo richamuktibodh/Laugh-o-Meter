@@ -7,4 +7,4 @@ This project is a joke rating predictor. It uses a dataset of 100 jokes and 70,0
 The dataset used for this project is the Jester dataset. It is a collection of 100 jokes and 70,000 user ratings. The dataset can be found [here](http://eigentaste.berkeley.edu/dataset/).
 
 
-Our approach and thinking process to tackle this problem is explained in the [report](Report.pdf).
+Our approach and thought process to tackle this problem is explained in the [report](Report.pdf).
